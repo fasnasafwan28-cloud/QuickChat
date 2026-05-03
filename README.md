@@ -1,10 +1,10 @@
-🤖 Chatbot Project (Streamlit + Ollama)
+# 🤖 Chatbot Project (Streamlit + Ollama)
 
 A simple and powerful chatbot application built using Streamlit and Ollama. This project allows users to interact with a locally running Large Language Model (LLM) in a clean and user-friendly interface.
 
 
 
-🚀 Features
+## 🚀 Features
 
 💬 Chat with an AI model in real-time
 🖥️ Clean and simple UI using Streamlit
@@ -14,7 +14,7 @@ A simple and powerful chatbot application built using Streamlit and Ollama. This
 
 
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Frontend: Streamlit
 Backend: Python
@@ -23,7 +23,7 @@ Model: phi3
 
 
 
-🌱 Future Improvements
+## 🌱 Future Improvements
 
 Chat history memory
 Multiple model support
@@ -32,14 +32,20 @@ Deployment to cloud
 
 
 
-📜 License
+## 📜 License
 
 This project is open-source and free to use.
 
 
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Fasna Swafvan
 
 ⭐ If you like this project, consider giving it a star on GitHub!
+
+
+
+1
+
+
